@@ -1,1 +1,2 @@
 # Dynamic-Image-Processing-Tool
+Developed a dynamic Image Processing Tool in C++ leveraging the lodepng library for efficient PNG manipulation. The tool features a modular Image class that facilitates seamless loading, processing, and saving of images. Unique functionalities include a custom color inversion algorithm, providing an intuitive command-line interface for advanced image transformations.
